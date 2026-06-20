@@ -165,7 +165,7 @@ The project includes an interactive **3-page Power BI Dashboard**.
 
 ### Retention & Insights
 
-![Retention & Insights](Screenshots/Retention_insights.png)
+![Retention & Insights](Screenshots/Retention_insight.png)
 
 ---
 
