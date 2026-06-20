@@ -1,57 +1,59 @@
-🚀 Customer Behavior & Retention Analytics
-End-to-End Data Analytics Project using Python, PostgreSQL & Power BI
-📌 Project Overview
+# 🚀 Customer Behavior & Retention Analytics
+### End-to-End Data Analytics Project using Python, PostgreSQL & Power BI
 
-This project presents an end-to-end Customer Analytics solution developed using Python, PostgreSQL, and Power BI. The objective was to analyze customer purchasing behavior, identify churn risks, measure customer retention, estimate Customer Lifetime Value (CLV), and generate actionable business insights through advanced SQL analysis and interactive dashboards.
+<p align="left">
 
-The project simulates a real-world customer intelligence workflow commonly used by retail and e-commerce organizations for customer segmentation, retention strategies, and business growth.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Advanced-success?style=for-the-badge)
+---
+---
 
-🛠️ Tech Stack
-Technology	Purpose
-Python	Data Cleaning & Feature Engineering
-PostgreSQL	Data Analysis & Business Queries
-Power BI	Interactive Dashboarding
-Pandas	Data Manipulation
-NumPy	Numerical Computation
-Matplotlib	Data Visualization
-📂 Project Structure
-customer-behavior-retention-analytics/
+## 📌 Project Overview
 
-│── Dataset/
-│   └── dataset_source.txt
+This project presents an **end-to-end Customer Analytics solution** developed using **Python, PostgreSQL, and Power BI**.
 
-│── Python/
-│   └── data_cleaning_and_analysis.ipynb
+The objective of this project is to analyze customer purchasing behavior, identify customers at risk of churn, measure customer retention, estimate **Customer Lifetime Value (CLV)**, and generate actionable business insights through advanced SQL analysis and interactive dashboards.
 
-│── SQL/
-│   └── behaviour_analysis.sql
+The project simulates real-world customer intelligence workflows commonly used by retail and e-commerce organizations for customer segmentation, retention strategies, and business growth.
 
-│── PowerBI/
-│   └── Customer_behaviour.pbix
+---
 
-│── Screenshots/
-│   ├── Executive_Overview.png
-│   ├── Customer_Analytics.png
-│   └── Retention_Insights.png
+## 🛠️ Tech Stack
 
-└── README.md
-🎯 Business Objectives
+| Technology | Purpose |
+|------------|---------|
+| Python | Data Cleaning & Feature Engineering |
+| PostgreSQL | Data Analysis & Advanced SQL |
+| Power BI | Interactive Dashboarding |
+| Pandas | Data Manipulation |
+| NumPy | Numerical Computation |
+| Matplotlib | Data Visualization |
 
-The project aims to answer important business questions such as:
+---
 
-Who are the most valuable customers based on lifetime value?
-Which customers are at risk of churn?
-How frequently do customers make repeat purchases?
-What is the customer retention trend over time?
-Which customer segments contribute the most revenue?
-How does Customer Lifetime Value vary across customer groups?
-How do purchasing patterns evolve over time?
-📊 Business Questions Solved
-👥 Customer Analytics
+## 🎯 Business Objectives
+
+This project aims to answer important business questions such as:
+
+- Who are the most valuable customers based on lifetime value?
+- Which customers are at risk of churn?
+- What is the customer retention trend over time?
+- How frequently do customers make repeat purchases?
+- Which customer segments contribute the highest revenue?
+- How does Customer Lifetime Value vary across customer groups?
+- How do purchasing patterns evolve over time?
+
+---
+
+## 📊 Business Questions Solved
+
+### 👥 Customer Analytics
 
 ✔ Top Customers by Lifetime Value (CLV)
 
-✔ Customer Segmentation (High, Medium & Low Value)
+✔ Customer Segmentation (High, Medium and Low Value)
 
 ✔ Repeat Purchase Rate
 
@@ -59,7 +61,9 @@ How do purchasing patterns evolve over time?
 
 ✔ Customer Revenue Contribution
 
-🔄 Retention & Churn Analysis
+---
+
+### 🔄 Retention & Churn Analysis
 
 ✔ Churn Risk Identification
 
@@ -71,7 +75,9 @@ How do purchasing patterns evolve over time?
 
 ✔ Customer Purchase Velocity
 
-💰 Revenue & Sales Analytics
+---
+
+### 💰 Revenue Analytics
 
 ✔ Month-over-Month Revenue Growth
 
@@ -83,72 +89,140 @@ How do purchasing patterns evolve over time?
 
 ✔ Customer Lifetime Value Analysis
 
-🧠 Advanced SQL Concepts Used
-SQL Fundamentals
-SELECT
-WHERE
-GROUP BY
-HAVING
-ORDER BY
-Aggregate Functions
-Advanced SQL
-Common Table Expressions (CTEs)
-Window Functions
-LAG()
-DENSE_RANK()
-Running Totals
-CASE Statements
-KPI Calculations
-Business Analytics
-Customer Segmentation
-Cohort Analysis
-Churn Analysis
-Customer Lifetime Value (CLV)
-Retention Analytics
-📈 Power BI Dashboard
+---
 
-The project includes an interactive 3-page Power BI Dashboard:
+## 🧠 Advanced SQL Concepts Used
 
-📍 Executive Overview
-Total Revenue
-Total Customers
-Revenue Trends
-Interactive Filters
-📍 Customer Analytics
-Customer Segmentation
-Top Customers
-Revenue Distribution
-Purchase Behavior
-📍 Retention & Insights
-Cohort Analysis
-Customer Retention Trends
-Churn Analysis
-Customer Lifetime Value
-💡 Key Insights
+### SQL Fundamentals
 
-🔹 High-value customers contribute a disproportionately large share of total revenue.
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- Aggregate Functions
 
-🔹 Repeat customers exhibit significantly higher Customer Lifetime Value compared to one-time buyers.
+### Advanced SQL
 
-🔹 Cohort analysis revealed differences in retention behavior among customer groups acquired during different periods.
+- Common Table Expressions (CTEs)
+- Window Functions
+- LAG()
+- DENSE_RANK()
+- Running Totals
+- CASE Statements
+- KPI Calculations
 
-🔹 Churn analysis identified customers inactive for prolonged periods, enabling targeted retention strategies.
+### Business Analytics
 
-🔹 Revenue trends highlighted seasonal purchasing patterns and customer spending behavior.
+- Customer Segmentation
+- Churn Analysis
+- Cohort Analysis
+- Customer Lifetime Value (CLV)
+- Retention Analytics
 
-🎯 Skills Demonstrated
+---
 
-Python • PostgreSQL • SQL • Power BI • Pandas
+## 📈 Power BI Dashboard
 
-Customer Segmentation • Churn Analysis
+The project includes an interactive **3-page Power BI Dashboard**.
 
-Cohort Analysis • Customer Lifetime Value (CLV)
+### 📍 Executive Overview
 
-Window Functions • Data Visualization
+- Revenue KPIs
+- Total Customers
+- Revenue Trends
+- Interactive Filters
 
-Business Analytics
+### 📍 Customer Analytics
 
-👨‍💻 Author
+- Customer Segmentation
+- Revenue Distribution
+- Top Customers
+- Purchase Behavior
+
+### 📍 Retention & Insights
+
+- Cohort Analysis
+- Customer Retention Trends
+- Churn Analysis
+- Customer Lifetime Value
+
+---
+
+## 📷 Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview](Screenshots/Executive_Overview.png)
+
+---
+
+### Customer Analytics
+
+![Customer Analytics](Screenshots/Customer_Analytics.png)
+
+---
+
+### Retention & Insights
+
+![Retention & Insights](Screenshots/Retention_Insights.png)
+
+---
+
+## 💡 Key Insights
+
+🔹 High-value customers contribute a major share of total revenue.
+
+🔹 Repeat customers generate significantly higher Customer Lifetime Value.
+
+🔹 Cohort analysis revealed different retention patterns among customer groups.
+
+🔹 Churn analysis identified inactive customers, enabling targeted retention strategies.
+
+🔹 Revenue trends highlighted seasonal purchasing behavior and customer spending patterns.
+
+---
+
+## 📂 Repository Structure
+
+```text
+customer-behavior-retention-analytics/
+
+├── Dataset/
+├── Python/
+│   └── data_cleaning_and_analysis.ipynb
+
+├── SQL/
+│   └── behaviour_analysis.sql
+
+├── PowerBI/
+│   └── Customer_behaviour.pbix
+
+├── Screenshots/
+│   ├── Executive_Overview.png
+│   ├── Customer_Analytics.png
+│   └── Retention_Insights.png
+
+└── README.md
+```
+## 🎯 Skills Demonstrated
+* Python
+* PostgreSQL
+* SQL
+* Power BI
+* Data Cleaning
+* Feature Engineering
+* Customer Segmentation
+* Churn Analysis
+* Cohort Analysis
+* Customer Lifetime Value (CLV)
+* Window Functions
+* Data Visualization
+* Business Analytics
+
+---
+
+## 👨‍💻 Author
 
 Atharv Kapoor
 
