@@ -1,4 +1,5 @@
 README
+
 Customer Behavior & Retention Analytics using Python, PostgreSQL & Power BI
 Project Overview
 
