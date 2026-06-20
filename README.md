@@ -1,4 +1,4 @@
-# 🚀 Customer Behavior & Retention Analytics
+# 🚀 Customer Behaviour & Retention Analytics
 ### End-to-End Data Analytics Project using Python, PostgreSQL & Power BI
 
 <p align="left">
