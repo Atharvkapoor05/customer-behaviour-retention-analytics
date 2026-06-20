@@ -169,6 +169,14 @@ The project includes an interactive **3-page Power BI Dashboard**.
 
 ---
 
+## 🗄️ Advanced SQL Analysis
+
+### Cohort Analysis Query
+
+![SQL Cohort Analysis](Screenshots/SQL_Cohort_Analysis.png)
+
+---
+
 ## 💡 Key Insights
 
 🔹 High-value customers contribute a major share of total revenue.
